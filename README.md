@@ -35,3 +35,10 @@ To contribute:
 4. Commit your changes (`git commit -m 'Add new feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
+
+
+##Screanshots
+
+![index](https://github.com/user-attachments/assets/c270ce54-32ac-4ec2-b5d4-f05c3fe7e515)
+![login](https://github.com/user-attachments/assets/7f64d809-5d41-4fec-9836-352a13841f65)
+![home](https://github.com/user-attachments/assets/ced006f7-9b3f-46b7-a268-acd107bca2d5)
