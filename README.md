@@ -37,7 +37,7 @@ To contribute:
 6. Open a pull request.
 
 
-## Screanshots
+## Screenshot
 
 ![index](https://github.com/user-attachments/assets/c270ce54-32ac-4ec2-b5d4-f05c3fe7e515)
 ![login](https://github.com/user-attachments/assets/7f64d809-5d41-4fec-9836-352a13841f65)
